@@ -2,6 +2,8 @@
 
 **From reusable building blocks to working engineering solutions.**
 
+![Open Engineering Assembly hero-banner.png](../assets/hero-banner.png)
+
 Open Engineering Assembly is the implementation capability of the Open Engineering ecosystem responsible for turning assembly definitions into concrete, validated, versioned, and reusable engineering solutions.
 
 Inspired by the LEGO system, Open Engineering treats architecture and software products as assemblies of reusable building blocks rather than monolithic constructions.
